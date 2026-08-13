@@ -51,7 +51,7 @@ body {
 }
 
 .img {
-    background-image: linear-gradient(rgba(20, 15, 12, 0.65)), url("./banner.jpg");
+    background-image: linear-gradient(rgba(20, 15, 12, 0.65)), url("./images/banner.jpg");
 
     height: 60vh;
     background-repeat: no-repeat;
